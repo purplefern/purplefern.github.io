@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-18T19:54:20-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PurpleFern’s Garden</title><subtitle>Hello World.</subtitle><author><name>Purple Fern</name></author><entry><title type="html">Test Post</title><link href="http://localhost:4000/test_post/" rel="alternate" type="text/html" title="Test Post" /><published>2022-02-21T20:40:00-05:00</published><updated>2022-02-21T20:40:00-05:00</updated><id>http://localhost:4000/for-gene-edited-babies</id><content type="html" xml:base="http://localhost:4000/test_post/">&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-does-this-site-exist&quot; id=&quot;markdown-toc-why-does-this-site-exist&quot;&gt;&lt;em&gt;Why does this site exist?&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notes&quot; id=&quot;markdown-toc-notes&quot;&gt;Notes&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#footnotes&quot; id=&quot;markdown-toc-footnotes&quot;&gt;&lt;em&gt;Footnotes&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-does-this-site-exist&quot;&gt;&lt;em&gt;Why does this site exist?&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;This site exists because I made it&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the 2021 &lt;a href=&quot;https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-ms/&quot; title=&quot;https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-ms/&quot; target=&quot;_blank&quot;&gt;Dictionary of Global Bioethics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- Comment  --&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold Word&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ital Word&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bold Ital Word&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List 1
+    &lt;ul&gt;
+      &lt;li&gt;List 2
+        &lt;ul&gt;
+          &lt;li&gt;List 3&lt;/li&gt;
+          &lt;li&gt;List 4&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/test.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;Placeholder&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;footnotes&quot;&gt;&lt;em&gt;Footnotes&lt;/em&gt;&lt;/h3&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Footnote example &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Purple Fern</name></author><category term="biology" /><category term="forecasting" /><summary type="html">Table of Contents</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/test.png" /><media:content medium="image" url="http://localhost:4000/assets/images/test.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

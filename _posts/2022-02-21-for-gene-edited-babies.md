@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Test Post"
-date:  2022-02-21 21:40:00 -0500
-last_edit: 2022-03-11 16:50:00 -0500
+date:  2022-02-21 21:40:00 -0400
+last_edit: 2022-03-11 16:50:00 -0400
 permalink: "/test_post/"
-status: "Working Draft"
-tags: [biology]
+tags: [biology, forecasting]
 image: /assets/images/test.png
-desc: "A description"
+desc: "Here I discuss counter arguments to Stuart Armstrong's Smarter Than Us"
 ---
 
 ## Table of Contents
@@ -20,7 +19,7 @@ __This site exists because I made it__
 
 [inline_link]: https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-ms/ "https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-ms/"
 
-In the 2021 _[Dictionary of Global Bioethics][global_bio]{:target="_blank"}.
+In the 2021 [Dictionary of Global Bioethics][inline_link]{:target="_blank"}.
 
 <!-- Comment  -->
 
@@ -38,7 +37,7 @@ ___Bold Ital Word___
         - List 4
 
 
-![](/assets/images/design_babies_p1/GenEn_AttitudesDemo_2017.png)
+![](/assets/images/test.png)
 
 
 ## Notes
