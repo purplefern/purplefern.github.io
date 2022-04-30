@@ -11,7 +11,6 @@ Who are you?
   What are your goals?
   What are your instruments?-->
 
-_This page is an attempt to communicate the scope of this site's content, along with what I hope to get out of this site; additionally, I provide some information about myself, mostly pertaining to my interests_.
 
 ---
 
@@ -26,11 +25,6 @@ This site is a venue to share my art, my scientific research, and my writing abo
 ## Contact
 
 For inquiries, discussion, etc. contact me at _e.purplefern@gmail.com_
-
-## Table of Contents
-{:.no_toc}
-* TOC
-{:toc}
 
 ---
 
