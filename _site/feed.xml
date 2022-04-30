@@ -1,14 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-21T20:33:03-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PurpleFern’s Garden</title><subtitle>Hello World.</subtitle><author><name>Purple Fern</name></author><entry><title type="html">A Deep Dive into Collagen</title><link href="http://localhost:4000/test_post/" rel="alternate" type="text/html" title="A Deep Dive into Collagen" /><published>2022-03-11T15:50:00-05:00</published><updated>2022-03-11T15:50:00-05:00</updated><id>http://localhost:4000/collagen</id><content type="html" xml:base="http://localhost:4000/test_post/">&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-25T19:31:44-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PurpleFern’s Garden</title><subtitle>Hello World.</subtitle><author><name>Purple Fern</name></author><entry><title type="html">A Deep Dive into Collagen</title><link href="http://localhost:4000/test_post/" rel="alternate" type="text/html" title="A Deep Dive into Collagen" /><published>2022-03-11T15:50:00-05:00</published><updated>2022-03-11T15:50:00-05:00</updated><id>http://localhost:4000/collagen</id><content type="html" xml:base="http://localhost:4000/test_post/">&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#why-does-this-site-exist&quot; id=&quot;markdown-toc-why-does-this-site-exist&quot;&gt;&lt;em&gt;Why does this site exist?&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-collagen&quot; id=&quot;markdown-toc-what-is-collagen&quot;&gt;&lt;strong&gt;What is Collagen?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#where-is-collagen&quot; id=&quot;markdown-toc-where-is-collagen&quot;&gt;&lt;strong&gt;Where is Collagen?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#types-of-collagen&quot; id=&quot;markdown-toc-types-of-collagen&quot;&gt;&lt;strong&gt;Types of Collagen&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-elhers-danlos-syndrome&quot; id=&quot;markdown-toc-what-is-elhers-danlos-syndrome&quot;&gt;&lt;strong&gt;What is Elhers Danlos Syndrome?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#where-is-ehlers-danlos-syndrome&quot; id=&quot;markdown-toc-where-is-ehlers-danlos-syndrome&quot;&gt;&lt;strong&gt;Where is Ehlers Danlos Syndrome?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#types-of-ehlers-danlos-syndrome&quot; id=&quot;markdown-toc-types-of-ehlers-danlos-syndrome&quot;&gt;&lt;strong&gt;Types of Ehlers Danlos Syndrome&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causes-of-ehlers-danlos-syndrome&quot; id=&quot;markdown-toc-causes-of-ehlers-danlos-syndrome&quot;&gt;&lt;strong&gt;Causes of Ehlers Danlos Syndrome&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#collagen-genes-and-mutations&quot; id=&quot;markdown-toc-collagen-genes-and-mutations&quot;&gt;&lt;strong&gt;Collagen Genes and Mutations&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#notes&quot; id=&quot;markdown-toc-notes&quot;&gt;Notes&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#footnotes&quot; id=&quot;markdown-toc-footnotes&quot;&gt;&lt;em&gt;Footnotes&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;why-does-this-site-exist&quot;&gt;&lt;em&gt;Why does this site exist?&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;This site exists because I made it&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-is-collagen&quot;&gt;&lt;strong&gt;What is Collagen?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This site exists because I made it&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;where-is-collagen&quot;&gt;&lt;strong&gt;Where is Collagen?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;types-of-collagen&quot;&gt;&lt;strong&gt;Types of Collagen&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;what-is-elhers-danlos-syndrome&quot;&gt;&lt;strong&gt;What is Elhers Danlos Syndrome?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;where-is-ehlers-danlos-syndrome&quot;&gt;&lt;strong&gt;Where is Ehlers Danlos Syndrome?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;types-of-ehlers-danlos-syndrome&quot;&gt;&lt;strong&gt;Types of Ehlers Danlos Syndrome&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;causes-of-ehlers-danlos-syndrome&quot;&gt;&lt;strong&gt;Causes of Ehlers Danlos Syndrome&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;collagen-genes-and-mutations&quot;&gt;&lt;strong&gt;Collagen Genes and Mutations&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;In the 2021 &lt;a href=&quot;https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-ms/&quot; title=&quot;https://graduateschool.colostate.edu/programs/cell-and-molecular-biology-ms/&quot; target=&quot;_blank&quot;&gt;Dictionary of Global Bioethics&lt;/a&gt;.&lt;/p&gt;
 
