@@ -52,5 +52,3 @@ For inquiries, discussion, etc. contact me at _e.purplefern@gmail.com_
    <li style="display: inline-block; margin-right: 20px"><a href="/tag/{{ tagname }}"><em> {{ titlecase }} </em></a></li>
 {% endfor %}
 </ul>
-
-&
